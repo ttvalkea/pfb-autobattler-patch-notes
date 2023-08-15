@@ -1,0 +1,76 @@
+====================================================================================================
+
+PPPPP  FFFFF  BBBB         A    U   U  TTTTT  OOOOO  BBBB     A    TTTTT  TTTTT  L      EEEEE  RRRR  
+P   P  F      B   B       A A   U   U    T    O   O  B   B   A A     T      T    L      E      R   R 
+PPPPP  FFFFF  BBBB       AAAAA  U   U    T    O   O  BBBB   AAAAA    T      T    L      EEEEE  RRRR  
+P      F      B   B      A   A  U   U    T    O   O  B   B  A   A    T      T    L      E      R  R  
+P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T    LLLLL  EEEEE  R   R  
+
+====================================================================================================
+
+--------------                                                                                                          
+|PATCH NOTES |                                                                                                          
+--------------
+15.08.2023
+- Visual upgrades:
+    - Bots' hit points are now shown as a bar
+    - Bots' loaded/charged status is now shown
+    
+14.08.2023
+- Visual upgrades:
+    - Bots' stats are now visualized with colorful circles
+    - Active bot has a glow
+
+13.08.2023
+- New melee bot added, Footman. Cost 8, attack 2, defence 1, hit points 7
+
+11.08.2023
+- Tech hit points from 2 to 3, cost from 8 to 7
+- Musketeer cost from 8 to 6
+- New shooter bot added, Gauss. Cost 11, attack 4, defence 0, hit points 4
+- New bot type added, Fire Caster
+    - Fire Caster casts a spell every other turn, recharging in between. It switches between two spells. Firstly, it'll cast Firebolt. Secondly, Meteor.
+        - Firebolt: a 2 damage projectile, cast at the weakest visible enemy. 
+            - Weakness here has a slightly different definition as with melee and shooter bots, as in priority step 2, instead of choosing the highest attack enemy, the enemy with the highest attack+defence value is chosen. 
+        - Meteor: a 2x2 tile area of effect spell, dealing 2 damage to each enemy it hits.
+            - Meteor is cast to a position where there are most targets. In case of several areas with equal amounts of targets, select a random area with the weakest bot. No line of sight needed.
+
+10.08.2023
+- Melee bot behavior change:
+    - Previosly, when there were several equidistant targets, one was chosen randomly and that target was kept until a closer target appeared.
+    - Now, if there are equidistant targets, the weakest one is chosen as the target.
+
+- Change to the definition of bot weakness for targeting:
+    Now, weakness is defined as follows:
+    Priority 1: How many attacks does it take to destroy the enemy. The less, the weaker the enemy.
+    Priority 2: In case of tie in last category, choose the one with the highest attack.
+    Priority 3: In case of tie in last category, choose the one with the highest remaining health.
+    Lastly, if there are still more than one option, choose randomly.
+
+    - Previosly, the definition was the same but without priorities 2 and 3
+
+- Spinner hit points from 5 to 4
+- Arena size increased from 7x8 to 7x9
+- Fixed a bug that allowed buying an upgrade several times by clicking fast 
+
+09.08.2023
+- Line of sight changed so that diagonally adjacent obstacles now block visibility
+- Added a button to reset the combat visualization
+- Minor UI upgrades
+
+08.08.2023
+- Spinner cost from 4 to 5
+- Musketeer cost from 7 to 8
+- Axeman cost from 10 to 9
+- Kickdevil hit points from 5 to 6
+- Gorilla hit points from 10 to 9
+
+- Arena size reduced from 7x9 to 7x8
+
+- New feature: Loan. Get 3 money now, but no money for the next turn
+
+- UI/UX upgrades:
+    - Game list's games are returned so that newest games are on top instead bottom
+    - Added more details to instruction text
+    - Upgrades are now shown in bot's stat numbers instead of just showing the upgrade icon
+    - "Go to next event" button shouldn't move that as much between clicks as before
