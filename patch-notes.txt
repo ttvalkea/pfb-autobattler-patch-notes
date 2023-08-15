@@ -11,6 +11,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------                                                                                                          
 |PATCH NOTES |                                                                                                          
 --------------
+
 15.08.2023
 - Visual upgrades:
     - Bots' hit points are now shown as a bar
