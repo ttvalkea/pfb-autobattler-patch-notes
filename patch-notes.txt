@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------                                                                                                          
 |PATCH NOTES |                                                                                                          
 --------------
+16.08.2023
+- Added combat observing tool to lobby
+    - Note that for older matches, there might be visual bugs in the presentation (regarding shooters and casters, at least).
 
 15.08.2023
 - Visual upgrades:
