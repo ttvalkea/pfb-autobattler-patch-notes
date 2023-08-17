@@ -34,7 +34,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
     - Active bot has a glow
 
 13.08.2023
-- New melee bot added, Footman. Cost 8, attack 2, defence 1, hit points 7
+- New melee bot added, Footman. Cost 8, attack 2, defence 1, hit points 7, move speed 3
 
 11.08.2023
 - Tech hit points from 2 to 3, cost from 8 to 7
