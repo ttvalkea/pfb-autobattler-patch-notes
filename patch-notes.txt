@@ -13,6 +13,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 17.08.2023
 - Visual upgrades:
+    - Combat view should now fit better onto the screen with screen resolutions <1440p 
     - Basic info about bots added to How to play
     - Added game name, date and combat number to lobby's combat viewer
 
