@@ -12,7 +12,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 |PATCH NOTES |                                                                                                          
 --------------
 17.08.2023
-- Basic info about bots added to How to play
+- Visual upgrades:
+    - Basic info about bots added to How to play
+    - Added game name, date and combat number to lobby's combat viewer
 
 16.08.2023
 - Added combat observing tool to lobby
