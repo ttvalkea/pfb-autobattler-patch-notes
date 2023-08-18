@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------                                                                                                          
 |PATCH NOTES |                                                                                                          
 --------------
+18.08.2023
+- Added paging to game list
+
 17.08.2023
 - Visual upgrades:
     - Combat view should now fit better onto the screen with screen resolutions <1440p 
