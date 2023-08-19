@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------                                                                                                          
 |PATCH NOTES |                                                                                                          
 --------------
+19.08.2023
+- Previously, each bot was equally likely to show up in the buy options. Now, there's a system in place allowing for bots to have different probabilities.
+    - This system works like a pool out of which a random bot is chosen and currently there's one of each bot in the pool except for Inferno of which there are two.
+
 18.08.2023
 - Added paging to game list
 
