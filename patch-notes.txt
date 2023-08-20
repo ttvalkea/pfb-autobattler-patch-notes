@@ -11,6 +11,13 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------                                                                                                          
 |PATCH NOTES |                                                                                                          
 --------------
+20.08.2023
+- New bot type added, Flyer
+    - Same as a melee bot except for first two turns. On first and second turn, walks towards opponent's backline. At the end of second turn, flies to enemy's backline, to closest empty tile. Has to rest afterwards, if flying distance is greater than ⏩ + 2.
+- Two new flyer bots added
+    - Pegasos, Cost 10, attack 3, defence 1, hit points 7, move speed 2
+    - Gargoyle, Cost 7, attack 2, defence 1, hit points 6, move speed 2
+
 19.08.2023
 - Previously, each bot was equally likely to show up in the buy options. Now, there's a system in place allowing for bots to have different probabilities.
     - This system works like a pool out of which a random bot is chosen and currently there's one of each bot in the pool except for Inferno of which there are two.
