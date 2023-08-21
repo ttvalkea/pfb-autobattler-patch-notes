@@ -1,15 +1,15 @@
 ====================================================================================================
 
-PPPPP  FFFFF  BBBB         A    U   U  TTTTT  OOOOO  BBBB     A    TTTTT  TTTTT  L      EEEEE  RRRR  
-P   P  F      B   B       A A   U   U    T    O   O  B   B   A A     T      T    L      E      R   R 
-PPPPP  FFFFF  BBBB       AAAAA  U   U    T    O   O  BBBB   AAAAA    T      T    L      EEEEE  RRRR  
-P      F      B   B      A   A  U   U    T    O   O  B   B  A   A    T      T    L      E      R  R  
-P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T    LLLLL  EEEEE  R   R  
+PPPPP  FFFFF  BBBB         A    U   U  TTTTT  OOOOO  BBBB     A    TTTTT  TTTTT  L      EEEEE  RRRR 
+P   P  F      B   B       A A   U   U    T    O   O  B   B   A A     T      T    L      E      R   R
+PPPPP  FFFFF  BBBB       AAAAA  U   U    T    O   O  BBBB   AAAAA    T      T    L      EEEEE  RRRR 
+P      F      B   B      A   A  U   U    T    O   O  B   B  A   A    T      T    L      E      R  R 
+P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T    LLLLL  EEEEE  R   R
 
 ====================================================================================================
 
---------------                                                                                                          
-|PATCH NOTES |                                                                                                          
+--------------
+|PATCH NOTES |
 --------------
 21.08.2023
 - Musketeer cost from 6 to 7
