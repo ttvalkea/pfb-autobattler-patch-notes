@@ -16,6 +16,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 - Tech cost from 7 to 8
 - Fly bonus distance from 2 to 3
 - In the first game, players always have 4 bots and 1 upgrade instead of 3-4 bots and 1-2 upgrades to choose from
+- Player now always sees their bots on the bottom of the screen instead of sometimes being inverted to the top
 
 20.08.2023
 - New bot type added, Flyer
