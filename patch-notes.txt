@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+22.08.2023
+- New melee bot added, Gnoll: Cost 7, attack 3, defence 1, hit points 6, move speed 1
+
 21.08.2023
 - Musketeer cost from 6 to 7
 - Tech cost from 7 to 8
