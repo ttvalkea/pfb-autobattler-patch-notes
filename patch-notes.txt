@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+24.08.2023
+- Rejoining a game is now possible from the lobby
+
 23.08.2023
 - Damage summary added
 
