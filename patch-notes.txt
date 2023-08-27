@@ -16,6 +16,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 - Pegasos cost from 10 to 9
 - Spinner cost from 5 to 4
 - Nuclear cost from 8 to 9
+- Added a button for autoplaying combat events
 
 24.08.2023
 - Rejoining a game is now possible from the lobby
