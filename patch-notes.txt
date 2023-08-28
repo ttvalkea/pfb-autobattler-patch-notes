@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+28.08.2023
+- Change to bots' pathfinding
+    - The path they choose should now be more vertical, which should make line of sight blocking slightly easier to predict
+
 27.08.2023
 - Gargoyle cost from 7 to 6
 - Pegasos cost from 10 to 9
