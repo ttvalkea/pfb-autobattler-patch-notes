@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+29.08.2023
+- Minor UX upgrade: always show Exit combat button, even if not at the end of combat
+
 28.08.2023
 - Change to bots' pathfinding
     - The path they choose should now be more vertical, which should make line of sight blocking slightly easier to predict
