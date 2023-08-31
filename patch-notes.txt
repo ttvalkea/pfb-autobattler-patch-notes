@@ -11,6 +11,11 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+31.08.2023
+- New bot type added, Life Caster
+    - Casts a healing spell (2 hp) on an ally every other turn. No line of sight needed.
+    - This new bot type makes "draws" possible, if neither team is able to destroy the other one. There's a turn limit of 25 turns after which the game will end with both players losing.
+
 29.08.2023
 - Minor UX upgrade: always show Exit combat button, even if not at the end of combat
 
