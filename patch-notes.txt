@@ -11,6 +11,13 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+15.09.2023
+- Added three new melee bots
+    - Minotaur: Cost 10, attack 4, defence 1, hit points 7, move speed 1
+    - Elf: Cost 8, attack 3, defence 2, hit points 5, move speed 2
+    - Staffer: Cost 5, attack 2, defence 1, hit points 5, move speed 2
+- Adjusted bot pool weight values so that there's approximately the same amount of melee bots available as before, compared to other bot types
+
 31.08.2023
 - New bot type added, Life Caster
     - Casts a healing spell (2 hp) on an ally every other turn. No line of sight needed.
