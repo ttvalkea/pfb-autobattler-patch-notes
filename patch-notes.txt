@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+21.12.2024
+- Added new bot, Nighthunter: cost 13, attack 4, defence 2, hit points 6, move speed 3
+- Lowered Spinner's cost from 4 to 3
+
 15.09.2023
 - Added three new melee bots
     - Minotaur: Cost 10, attack 4, defence 1, hit points 7, move speed 1
