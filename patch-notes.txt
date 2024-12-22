@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+22.12.2024
+- Added sounds to combat view
+
 21.12.2024
 - Added new bot, Nighthunter: cost 13, attack 4, defence 2, hit points 6, move speed 3
 - Lowered Spinner's cost from 4 to 3
