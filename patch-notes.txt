@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+25.12.2024
+- Added a new bot, Commander. Cost 11, attack 1, defence 1, hit points 6, move speed 1
+    - New ability, aura. Commander has the Vigor aura that gives +1 attack to all allied bots while Commander is alive
+
 22.12.2024
 - Added sounds to combat view
 
