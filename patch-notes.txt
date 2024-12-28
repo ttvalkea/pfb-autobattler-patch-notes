@@ -11,6 +11,14 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+28.12.2024
+- Added three new bots.
+    - Toxic: Cost 8, 4 hit points, no defence or attack, 1 movement (though won't move ever).
+        - New type, Poison Caster. Casts a Poison Cloud spell every other turn, dealing 1 damage to each enemy in 3x3 area. Same targeting rules as with Meteor.
+    - Banner Bearer: Cost 7, attack 2, defence 1, hit points 5, move speed 1
+        - Has the Vigor aura, that gives +1 movement to all allies while Banner Bearer stays alive.
+    - Firefly: Flying bot with cost 4, attack 2, defence 0, hit points 5, move speed 2
+
 25.12.2024
 - Added a new bot, Commander. Cost 11, attack 1, defence 1, hit points 6, move speed 1
     - New ability, aura. Commander has the Vigor aura that gives +1 attack to all allied bots while Commander is alive
