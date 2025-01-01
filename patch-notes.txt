@@ -12,6 +12,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 |PATCH NOTES |
 --------------
 01.01.2025
+- There's now one additional option when buying bots (from 3 or 4 to 4 or 5)
 - Added a new bot, Hex, with a new type Caster: Curse.
     - Cost 8, 4 hit points, no defence
     - Casts a Weaken curse, halving target's attack power for three turns. Targets highest attack bot, requires line of sight.
