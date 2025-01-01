@@ -11,6 +11,12 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+01.01.2025
+- Added a new bot, Hex, with a new type Caster: Curse.
+    - Cost 8, 4 hit points, no defence
+    - Casts a Weaken curse, halving target's attack power for three turns. Targets highest attack bot, requires line of sight.
+- Changed bot costs: Commander 11 -> 12, Nighthunter 13 -> 12, Toxic 8 -> 7
+
 28.12.2024
 - Added three new bots.
     - Toxic: Cost 8, 4 hit points, no defence or attack, 1 movement (though won't move ever).
