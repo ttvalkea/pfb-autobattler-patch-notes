@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+03.01.2025
+- Toxic's cost lowered from 7 -> 6
+- Fixed bug with Weaken curse's targeting
+
 01.01.2025
 - There's now one additional option when buying bots (from 3 or 4 to 4 or 5)
 - Added a new bot, Hex, with a new type Caster: Curse.
