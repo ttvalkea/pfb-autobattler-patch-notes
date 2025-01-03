@@ -14,6 +14,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 03.01.2025
 - Toxic's cost lowered from 7 -> 6
 - Fixed bug with Weaken curse's targeting
+- Added the possibility to change game settings. For now, initial money amount can be changed.
 
 01.01.2025
 - There's now one additional option when buying bots (from 3 or 4 to 4 or 5)
