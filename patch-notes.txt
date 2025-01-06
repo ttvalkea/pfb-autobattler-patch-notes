@@ -11,6 +11,15 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+06.01.2025
+- Added a new bot, Frost, with a new type Caster: Ice
+    - Cost 6, 4 hit points, no defence
+    - Alternates casting two spells: Cryostasis, slowing each enemy's movement for a turn; Glacial Spike: 2 damage projectile, cast at the weakest visible enemy. Slows target for a turn.
+- Added the possibility to change money per turn value in the game settings
+
+04.01.2025
+- Previous combat can now be viewed straight from the Buy View
+
 03.01.2025
 - Toxic's cost lowered from 7 to 6
 - Fixed bug with Weaken curse's targeting
