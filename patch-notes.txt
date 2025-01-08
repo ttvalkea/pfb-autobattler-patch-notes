@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+08.01.2025
+- Players can now lock a bot from the buy view for the next buy round
+
 06.01.2025
 - Added a new bot, Frost, with a new type Caster: Ice
     - Cost 6, 4 hit points, no defence
