@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+10.01.2025
+- Toxic's cost changed back to 7 (from 6)
+
 08.01.2025
 - Players can now lock a bot from the buy view for the next buy round
 
