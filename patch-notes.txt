@@ -11,6 +11,11 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+12.01.2025
+- Added a new bot, Mountain King
+    - Shooter with cost 11, attack 2, defence 0, hit points 5, move speed 1
+    - Has the Bulwark aura, which gives +1 defence to all allies while Mountain King stays alive
+
 10.01.2025
 - Toxic's cost changed back to 7 (from 6)
 
