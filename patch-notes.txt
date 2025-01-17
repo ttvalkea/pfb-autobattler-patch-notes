@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+17.01.2025
+- Changed maximum number of turns in a round from 25 to 40
+- Draws no longer award losses to players
+
 12.01.2025
 - Added a new bot, Mountain King
     - Shooter with cost 11, attack 2, defence 0, hit points 5, move speed 1
