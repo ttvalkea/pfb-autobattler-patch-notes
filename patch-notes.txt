@@ -15,7 +15,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 - Added an option to see line of sight for actions requiring it during combat
     - Won't work in replays of matches played before this update
 - Added two new bots:
-    - Cyclops: Melee, cost 10, attack 2, defence 3, hit points 10, move speed 1
+    - Cyclops: Melee, cost 11, attack 2, defence 3, hit points 10, move speed 1
     - Bellerophon: Flyer, cost 12, attack 4, defence 1, hit points 8, move speed 2
 
 17.01.2025
