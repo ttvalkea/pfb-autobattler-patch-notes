@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+19.01.2025
+- Added an option to see line of sight for actions requiring it during combat
+
 17.01.2025
 - Changed maximum number of turns in a round from 25 to 40
 - Draws no longer award losses to players
