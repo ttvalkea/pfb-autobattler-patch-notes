@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+20.01.2025
+- Players can now sell a bot for two thirds of its cost (plus any upgrades it has)
+- Increased Frost's slow duration from spells from 1 turn to 2 turns
+
 19.01.2025
 - Added an option to see line of sight for actions requiring it during combat
     - Won't work in replays of matches played before this update
