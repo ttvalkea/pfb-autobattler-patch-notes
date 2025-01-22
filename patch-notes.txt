@@ -14,10 +14,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 22.01.2025
 - New ability added: Elemental. An elemental bot deals damage ignoring target's defence.
 - Five new elemental bots added:
-    - Heat: Melee, cost 7, attack 2, defence 1, hit points 5, move speed 1
+    - Heat: Melee, cost 6, attack 2, defence 1, hit points 5, move speed 1
     - Pulsma: Melee, cost 9, attack 2, defence 1, hit points 6, move speed 2
-    - Pyro: Melee, cost 11, attack 3, defence 1, hit points 6, move speed 3
-    - Electro: Flyer, cost 8, attack 2, defence 1, hit points 5, move speed 2
+    - Pyro: Melee, cost 11, attack 3, defence 1, hit points 7, move speed 3
+    - Electro: Flyer, cost 8, attack 2, defence 1, hit points 6, move speed 2
     - Gas: Shooter, cost 10, attack 2, defence 0, hit points 5
 - Firefly removed from the game but replaced with a new bot, Propel, with the same stats
 
