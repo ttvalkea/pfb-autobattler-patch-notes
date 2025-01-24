@@ -11,6 +11,11 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+24.01.2025
+- New bot type added, the summoner
+    - Summons a skeleton bot every other turn next to the summoner, in the direction of the closest enemy, unless there are no empty tiles. The skeleton is a melee bot with these stats: 3 hp, 2 attack, 1 defence, 2 movement.
+    - Necromancer is the new bot that has the summoner type: cost 10, 4 hit points, 0 defence
+
 22.01.2025
 - New ability added: Elemental. An elemental bot deals damage ignoring target's defence.
 - Five new elemental bots added:
