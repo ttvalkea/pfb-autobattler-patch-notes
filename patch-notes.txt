@@ -16,6 +16,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
     - Time is given for watching the combat + buying. Amount of time given depends on the amount of events in the combat and how far the game has progressed.
     - Time given for a round is roughly 1-2 minutes, though sometimes a bit less or more
     - Timer can be enabled/disabled for a game from the game settings
+- Necromancer's cost increased from 10 to 12
 
 24.01.2025
 - New bot type added, the summoner
