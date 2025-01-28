@@ -12,6 +12,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 |PATCH NOTES |
 --------------
 28.01.2025
+- Changed bot sell value from two thirds of bot price to half of bot price
 - Several balance changes to bots
     - Footman cost from 8 to 6
     - Pulsma cost from 9 to 8
