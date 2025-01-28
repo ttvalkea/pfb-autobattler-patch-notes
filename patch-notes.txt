@@ -11,6 +11,16 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+28.01.2025
+- Several balance changes to bots
+    - Footman cost from 8 to 6
+    - Pulsma cost from 9 to 8
+    - Mountain King hit points from 4 to 5
+    - Hex's Weaken curses duration from 3 to 4 turns
+    - Medic cost from 7 to 8
+    - Gauss hit points from 5 to 4
+    - Pyro hit points from 7 to 6
+
 26.01.2025
 - Timer implemented. If a player runs out of time, they will be marked as "Ready for combat". 
     - Time is given for watching the combat + buying. Amount of time given depends on the amount of events in the combat and how far the game has progressed.
