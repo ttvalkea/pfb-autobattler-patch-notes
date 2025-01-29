@@ -11,6 +11,10 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+29.01.2025
+- Added a way to view each bot model
+    - Can be found under How to play -> Details -> View all bots
+
 28.01.2025
 - Changed bot sell value from two thirds of bot price to half of bot price
 - Several balance changes to bots
