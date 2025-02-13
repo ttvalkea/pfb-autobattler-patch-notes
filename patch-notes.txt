@@ -11,6 +11,15 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+13.02.2025
+- Added a new bot: Berserker, cost 7, attack 3, defence 0, hit points 7, move speed 2
+- Added a new ability: Regeneration.
+    - Bots with regeneration heal 1 hp at the beginning of their turn.
+    - New bots:
+        - Murloc: Melee, cost 7, attack 2, defence 1, hit points 6, move speed 2, Regeneration
+        - Troll: Melee, cost 10, attack 3, defence 1, hit points 8, move speed 1, Regeneration
+        - Phoenix: Flyer, cost 11, attack 2, defence 1, hit points 7, move speed 3, Regeneration + Elemental 
+
 10.02.2025
 - Changed Necromancer to Lich. Change is only cosmetic.
 
