@@ -11,7 +11,11 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
-13.02.2025
+15.02.2025
+- Reduce Troll's hit points by from 8 to 7
+- Reduce Phoenix's hit points by from 7 to 6
+
+14.02.2025
 - Added a new bot: Berserker, cost 7, attack 3, defence 0, hit points 7, move speed 2
 - Added a new ability: Regeneration.
     - Bots with regeneration heal 1 hp at the beginning of their turn.
