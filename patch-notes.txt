@@ -11,6 +11,16 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+20.02.2025
+- Added a new bot, Zephyrus, with a new type Caster: Air
+    - Cost 7, 4 hit points, no defence
+    - Alternates casting two spells
+        - Fog, creating a line of sight blocking fog cloud on a tile. Targets a tile with an enemy bot requiring line of sight, with the highest damage potential with their next action
+            - If there are two shooters, one with attack power 3 and the other with 2, will cast the fog on the higher attack power shooter.
+            - Similarly chooses targets among LoS requiring casters: If there's an Inferno, ready to cast Firebolt (2 damage) and a shooter with 2 power, will select randomly between those two.
+            - Which spell is going to be cast next is considered. If there's an Inferno ready to cast Firebolt and a Frost ready to cast Cryostasis, the Inferno will be targeted.
+        - Lightning: 2 damage spell that doesn't require line of sight to target
+
 15.02.2025
 - Reduce Troll's hit points by from 8 to 7
 - Reduce Phoenix's hit points by from 7 to 6
