@@ -13,7 +13,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 20.02.2025
 - Added a new bot, Zephyrus, with a new type Caster: Air
-    - Cost 7, 4 hit points, no defence
+    - Cost 6, 4 hit points, no defence
     - Alternates casting two spells
         - Fog, creating a line of sight blocking fog cloud on a tile. Targets a tile with an enemy bot requiring line of sight, with the highest damage potential with their next action
             - If there are two shooters, one with attack power 3 and the other with 2, will cast the fog on the higher attack power shooter.
