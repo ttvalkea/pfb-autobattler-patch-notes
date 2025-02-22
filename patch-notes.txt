@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+22.02.2025
+- Air caster's Fog spell is now much larger: Instead of a single tile of fog, it creates a cross shaped fog
+
 20.02.2025
 - Added a new bot, Zephyrus, with a new type Caster: Air
     - Cost 6, 4 hit points, no defence
