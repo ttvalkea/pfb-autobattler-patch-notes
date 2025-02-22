@@ -13,6 +13,8 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 22.02.2025
 - Air caster's Fog spell is now much larger: Instead of a single tile of fog, it creates a cross shaped fog
+- Zephyrus cost from 6 to 7
+- Archmage cost from 11 to 10
 
 20.02.2025
 - Added a new bot, Zephyrus, with a new type Caster: Air
