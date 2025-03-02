@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+02.03.2025
+- When targeting, bots now choose an Elemental bot over a normal bot as target when doing a comparison of attack power, when those bots have the same attack power 
+
 01.03.2025
 - Zephyrus removed from the game, at least temporarily.
     - Its Fog spell didn't create interesting gameplay so needs redesigning
