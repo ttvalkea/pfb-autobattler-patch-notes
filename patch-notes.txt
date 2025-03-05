@@ -16,6 +16,8 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
     - Cost 9, 4 hit points, no defence
     - Casts Hydro Burst: 2x2 AOE spell, dealing 1 damage to each enemy hit and knocking them back by a tile. Each bot that can't be knocked back because of a wall or another bot behind them takes an additional 1 damage.
         - Targets the area that will deal the most total damage. If tied, targets an area with the weakest (lowest HP) bot.
+- Added another new bot, Surtr:
+    - Cost 14, Caster: Fire, 6 hit points, 1 defence, has the Energize aura
 
 02.03.2025
 - When targeting, bots now choose an Elemental bot over a normal bot as target when doing a comparison of attack power, when those bots have the same attack power 
