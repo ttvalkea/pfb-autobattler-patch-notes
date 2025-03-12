@@ -13,6 +13,7 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 12.03.2025
 - Troll cost from 10 to 11
+- Kickdevil cost from 9 to 8
 
 05.03.2025
 - Added a new bot, Nereus, with a new type Caster: Water
