@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+12.03.2025
+- Troll cost from 10 to 11
+
 05.03.2025
 - Added a new bot, Nereus, with a new type Caster: Water
     - Cost 9, 4 hit points, no defence
