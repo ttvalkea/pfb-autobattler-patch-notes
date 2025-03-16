@@ -11,6 +11,14 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+16.03.2025
+- Added a new ability, Tail
+    - A bot with Tail does a 2 power tail attack at the end of its turn, if adjacent to an enemy. Unlike a normal attack, tail attack's damage can be reduced to 0 due to defence.
+- Three bots with Tail added
+    - Tailer: Melee, cost 8, attack 2, defence 1, hit points 6, move speed 2
+    - Raptor: Melee, cost 10, attack 2, defence 1, hit points 7, move speed 3
+    - Wyvern: Flyer, cost 7, attack 2, defence 1, hit points 5, move speed 2
+
 12.03.2025
 - Troll cost from 10 to 11
 - Kickdevil cost from 9 to 8
