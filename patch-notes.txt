@@ -12,6 +12,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 |PATCH NOTES |
 --------------
 26.03.2025
+- Added two new bots:
+    - Thundergun: Shooter, Elemental, cost 13, attack 3, defence 1, hit points 4
+    - Slinger: Shooter, cost 5, attack 1, defence 0, hit points 4
 - Pulsma and Demon removed from the game but replaced with new bots, Icicle and Executor, with the same stats
 
 16.03.2025
