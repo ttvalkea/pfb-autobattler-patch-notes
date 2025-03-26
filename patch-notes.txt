@@ -11,6 +11,9 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+26.03.2025
+- Pulsma and Demon removed from the game but replaced with new bots, Icicle and Executor, with the same stats
+
 16.03.2025
 - Added a new ability, Tail
     - A bot with Tail does a 2 power tail attack at the end of its turn, if adjacent to an enemy. Unlike a normal attack, tail attack's damage can be reduced to 0 due to defence.
