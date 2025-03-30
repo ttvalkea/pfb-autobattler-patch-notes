@@ -11,6 +11,12 @@ P      F      BBBB       A   A  UUUUU    T    OOOOO  BBBB   A   A    T      T   
 --------------
 |PATCH NOTES |
 --------------
+30.03.2025
+- Water caster now has an additional spell, Impact Ball, in addition to Hydro Burst
+    - Impact Ball is a projectile that knocks back the enemy. Deals 1 damage + 1 additional damage if it can't be knocked back because of a wall or another bot behind target.
+        - Prioritizes targeting bots that will take full (2) damage, secondarily targets weakest (lowest HP) bot.
+- Nereus cost from 9 to 8
+
 26.03.2025
 - Added two new bots:
     - Thundergun: Shooter, Elemental, cost 13, attack 3, defence 1, hit points 4
