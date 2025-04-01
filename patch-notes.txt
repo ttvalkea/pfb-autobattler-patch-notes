@@ -13,6 +13,10 @@ https://pfb-autobattler-client.vercel.app/
 --------------
 |PATCH NOTES |
 --------------
+01.04.2025
+- Archmage cost from 10 to 9
+- Surtr hit points from 6 to 7
+
 30.03.2025
 - Lich's cost lowered from 12 to 11
 - Water caster now has an additional spell, Impact Ball, in addition to Hydro Burst
