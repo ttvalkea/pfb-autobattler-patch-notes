@@ -13,6 +13,10 @@ https://pfb-autobattler-client.vercel.app/
 --------------
 |PATCH NOTES |
 --------------
+12.04.2025
+- Energize aura nerfed
+    - Now gives an additional spell charge after bot recharges
+
 01.04.2025
 - Archmage cost from 10 to 9
 - Surtr hit points from 6 to 7
