@@ -16,6 +16,7 @@ https://pfb-autobattler-client.vercel.app/
 12.04.2025
 - Energize aura nerfed
     - Now gives an additional spell charge after bot recharges
+- With spell charges now introduced, Medic and Lich will recharge if they can't cast a spell (as will potential future casters that sometimes can't cast their spell)
 
 01.04.2025
 - Archmage cost from 10 to 9
