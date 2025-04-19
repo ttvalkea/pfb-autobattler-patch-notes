@@ -13,6 +13,10 @@ https://pfb-autobattler-client.vercel.app/
 --------------
 |PATCH NOTES |
 --------------
+19.04.2025
+- Added a possibility for single-player play, against a bot opponent
+    - Choose single-player mode from game settings
+
 12.04.2025
 - Energize aura nerfed
     - Now gives an additional spell charge after bot recharges
